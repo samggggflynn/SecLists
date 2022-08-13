@@ -1,5 +1,7 @@
 ![seclists.png](https://danielmiessler.com/images/seclists-long.png "seclists.png")
 
+修改增加，测试merge conflict
+
 ### About SecLists
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.
@@ -62,7 +64,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### Licensing
 
-This project is licensed under the [MIT license](LICENSE).
+修改删除，测试merge conflict
 
 ![MIT License](https://danielmiessler.com/images/mitlicense.png)
 
